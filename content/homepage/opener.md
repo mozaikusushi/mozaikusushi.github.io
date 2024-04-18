@@ -3,6 +3,7 @@ title: "Welcome"
 weight: 1
 ---
 
+
 `Hugo-Scroll` theme alternates colors of sections that are placed on single page.
 The landing screen is meant to be visually striking.
 

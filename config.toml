@@ -35,10 +35,10 @@ title = "Mozaiku Sushi Catering"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Jane Doe - Nutrition Coach & Chef Consultant"
+    title = "Mozaiku"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Sushi Catering"
 
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Plain HTML is supported in here as well. So you may e.g. add a link to your legal imprint-page.

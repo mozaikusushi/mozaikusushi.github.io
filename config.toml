@@ -1,4 +1,4 @@
-baseURL = "https://mozaikusushi.com"
+baseURL = "https://mozaikusushi.github.io"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -59,7 +59,7 @@ title = "Mozaiku Sushi Catering"
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "sushi, catering, austin, wedding, party, tray, trays, maki, nigiri"
 
     [[params.contacts]]
         label = "phone"

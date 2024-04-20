@@ -10,7 +10,7 @@ header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Mozaiku Sushi"
-header_subheadline: "<b>Sushi Catering & At Home Events</b>"
+header_subheadline: "Sushi Catering & At Home Events"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

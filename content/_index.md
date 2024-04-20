@@ -6,7 +6,7 @@ header_image: "IMG_2958.png"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "479807_10150982148447352_1829631709_n copy.jpg"
+header_logo: "profile.jpg"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Mozaiku Sushi"

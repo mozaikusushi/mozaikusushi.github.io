@@ -9,8 +9,8 @@ header_use_video: false
 header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Mozaiku with Brent Weiss"
-header_subheadline: "<b>Sushi</b> Catering & <b>Hosting</b>"
+header_headline: "Mozaiku Sushi"
+header_subheadline: "<b>Sushi Catering & At Home Events<b></b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

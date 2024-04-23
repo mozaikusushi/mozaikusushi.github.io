@@ -8,7 +8,7 @@ header_use_video: false
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Mozaiku Sushi"
+header_headline: "Mozaiku"
 header_subheadline: "Sushi Catering & At Home Events"
 
 # Add a 'Go back to top' item to the navigation menu

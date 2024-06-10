@@ -25,6 +25,6 @@ You will likely have to pay money for this.
 
 I can raise your table culture!
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![Nigiri](images/IMG_5802.jpeg)
 
 Want to learn more about my services? See [dedicated page](services) with more details.
